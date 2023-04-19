@@ -5,13 +5,15 @@
 ---
 * You need to replace the webhook in the file
 
-The program is FUD in Python and will be FUD if you use Nuitka to compile it
+The program is FUD in Python and can be FUD if you use Nuitka to compile it
 
 Pip install nuitka
 
 ```py
 python -m nuitka --follow-imports main.py
 ```
+
+or other if you know some
 -----
 
 
