@@ -5,7 +5,7 @@
 ---
 * You need to replace the webhook in the file
 
-The program is FUD in Python and can be FUD if you use Nuitka to compile it
+The program is FUD in Python and can be FUD if you use Nuitka to compile it or use some obfuscator like Hyperion https://github.com/billythegoat356/Hyperion
 
 Pip install nuitka
 
