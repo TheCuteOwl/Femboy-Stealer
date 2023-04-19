@@ -5,6 +5,8 @@
 ---
 * You need to replace the webhook in the file
 
+It will be updated to try to bypass some of them
+
 You can make it into an exe, it is detected by all these 5 AV
 
 Elastic
